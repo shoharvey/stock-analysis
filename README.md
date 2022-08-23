@@ -7,6 +7,8 @@
 # Results
 ##### We can now compare the results of the 2017 data with that of 2018. Wheras the annual returns of 2017 was positive for almost all stocks, the annual returns of 2018 are deeply negative for almost all stocks. The only stock that had outsized returns in both 2017 and 2018 was ticker symbol ENPH, enphase energy. In terms of runtime, the refactored code ran considerably faster for both years:
 
+![alt text](https://github.com/shoharvey/stock-analysis/tree/main/Resources/2017.png "2017 Runtime")
+
 
 # Summary
 ##### Refactoring code is an essential part of the programming process that requires a solid grasp of how the original code works.

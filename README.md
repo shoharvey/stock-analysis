@@ -9,6 +9,9 @@
 
 ![2017 Runtime](/Resources/VBA_Challenge_2017.png "2017 Runtime")
 
+![2018 Runtime](/Resources/VBA_Challenge_2018.png "2018 Runtime")
+
+
 
 # Summary
 ##### Refactoring code is an essential part of the programming process that requires a solid grasp of how the original code works.
